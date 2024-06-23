@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+}
+#overall{
+    border: 10px solid silver;
+}
+.second{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+#one{
+    width: 65%;
+    border: 10px solid wheat;
+    margin-left: 3%;
+    margin-top: 40px;
+}
+#two{
+    width:70%;
+    border: 10px solid wheat;
+}
+#hcenter{
+    color: whitesmoke;
+    font-weight: 150;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#hleft{
+    color: whitesmoke;
+    margin-left: 30%;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#center{
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-weight:500;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+#left{
+    color: whitesmoke;
+    text-transform: uppercase;
+    margin-left: 23%;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#three{
+    height: 50%;
+    width: 65%;
+    border: 10px solid wheat;
+    margin-left: 30%;
+    margin-top: 40px;
+}
+#hright{
+    color: whitesmoke;
+    margin-left: 57%;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#right{
+    color: whitesmoke;
+    margin-bottom: 0%;
+    margin-left: 48%;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sright{
+    color: whitesmoke;
+    margin-top: 0%;
+    margin-left: 54%;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
